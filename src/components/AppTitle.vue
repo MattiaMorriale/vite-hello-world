@@ -16,8 +16,16 @@
 
 <style>
 
-h1{
-    color: black;
+h1{  
+
+color: orange;
+font-family: cursive;
+font-style: italic;
+
+margin: 25px 0;
+
+font-size: 50px;
+
 }
 
 </style>
